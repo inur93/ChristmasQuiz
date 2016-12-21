@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "580491413058",
+    "firebase_url": "https://christmasquiz-c0199.firebaseio.com",
+    "project_id": "christmasquiz-c0199",
+    "storage_bucket": "christmasquiz-c0199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580491413058:android:7e33bc4a9f797e8e",
+        "android_client_info": {
+          "package_name": "com.vormadal.christmasquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580491413058-l8vrf7l3tlams8325q3cbn7rcdgiavok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vormadal.christmasquiz",
+            "certificate_hash": "CF5B6E3E5BCB912111E51BE05A8E3E34306F9EAE"
+          }
+        },
+        {
+          "client_id": "580491413058-bo501r64i0d502s8ksm0oth5tmdn0taa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQDXCcWizLPRlG01QLeUqKhTom102KG8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580491413058-bo501r64i0d502s8ksm0oth5tmdn0taa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
